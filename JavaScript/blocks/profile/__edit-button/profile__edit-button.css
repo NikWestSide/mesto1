@@ -9,7 +9,7 @@
     width: 24px;
     height: 24px;
     border: 1px solid #FFFFFF;
-    background-color: #000000;
+    background-color: transparent;
     transition: .4s ease-in-out;
 }
 
@@ -20,6 +20,7 @@
 
 @media screen and (max-width: 760px){
     .profile__edit-button {
+        background-size: 7.5px 7.5px;
         align-self: center;
         width: 18px;
         height: 18px;

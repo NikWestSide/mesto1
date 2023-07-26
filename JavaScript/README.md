@@ -4,4 +4,4 @@
 
 ### Мы использовали css структуры, вкладывали блоки по бэм-структурам, использовали flex-верстку, гриды и не много языка программирования.
 
-### Ссылка на сайт https://nikwestside.github.io/Java/index.html
+### Ссылка на сайт https://nikwestside.github.io/mest0/index.html
